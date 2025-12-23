@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Pattern1\bin\Debug\net8.0\Day1_Pattern1.exe
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Pattern1\bin\Debug\net8.0\Day1_Pattern1.deps.json
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Pattern1\bin\Debug\net8.0\Day1_Pattern1.runtimeconfig.json
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Pattern1\bin\Debug\net8.0\Day1_Pattern1.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Pattern1\bin\Debug\net8.0\Day1_Pattern1.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Pattern1\obj\Debug\net8.0\Day1_Pattern1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Pattern1\obj\Debug\net8.0\Day1_Pattern1.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Pattern1\obj\Debug\net8.0\Day1_Pattern1.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Pattern1\obj\Debug\net8.0\Day1_Pattern1.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Pattern1\obj\Debug\net8.0\Day1_Pattern1.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Pattern1\obj\Debug\net8.0\refint\Day1_Pattern1.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Pattern1\obj\Debug\net8.0\Day1_Pattern1.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Pattern1\obj\Debug\net8.0\Day1_Pattern1.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Pattern1\obj\Debug\net8.0\ref\Day1_Pattern1.dll

@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day2_switchcase\bin\Debug\net8.0\Day2_switchcase.exe
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day2_switchcase\bin\Debug\net8.0\Day2_switchcase.deps.json
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day2_switchcase\bin\Debug\net8.0\Day2_switchcase.runtimeconfig.json
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day2_switchcase\bin\Debug\net8.0\Day2_switchcase.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day2_switchcase\bin\Debug\net8.0\Day2_switchcase.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day2_switchcase\obj\Debug\net8.0\Day2_switchcase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day2_switchcase\obj\Debug\net8.0\Day2_switchcase.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day2_switchcase\obj\Debug\net8.0\Day2_switchcase.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day2_switchcase\obj\Debug\net8.0\Day2_switchcase.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day2_switchcase\obj\Debug\net8.0\Day2_switchcase.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day2_switchcase\obj\Debug\net8.0\refint\Day2_switchcase.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day2_switchcase\obj\Debug\net8.0\Day2_switchcase.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day2_switchcase\obj\Debug\net8.0\Day2_switchcase.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day2_switchcase\obj\Debug\net8.0\ref\Day2_switchcase.dll

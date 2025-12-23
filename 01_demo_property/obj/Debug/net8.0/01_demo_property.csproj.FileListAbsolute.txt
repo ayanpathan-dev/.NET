@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.Net_250845920048\Solution\01_demo_property\bin\Debug\net8.0\01_demo_property.exe
+C:\Users\IET\Desktop\.Net_250845920048\Solution\01_demo_property\bin\Debug\net8.0\01_demo_property.deps.json
+C:\Users\IET\Desktop\.Net_250845920048\Solution\01_demo_property\bin\Debug\net8.0\01_demo_property.runtimeconfig.json
+C:\Users\IET\Desktop\.Net_250845920048\Solution\01_demo_property\bin\Debug\net8.0\01_demo_property.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\01_demo_property\bin\Debug\net8.0\01_demo_property.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\01_demo_property\obj\Debug\net8.0\01_demo_property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net_250845920048\Solution\01_demo_property\obj\Debug\net8.0\01_demo_property.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\01_demo_property\obj\Debug\net8.0\01_demo_property.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net_250845920048\Solution\01_demo_property\obj\Debug\net8.0\01_demo_property.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\01_demo_property\obj\Debug\net8.0\01_demo_property.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\01_demo_property\obj\Debug\net8.0\refint\01_demo_property.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\01_demo_property\obj\Debug\net8.0\01_demo_property.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\01_demo_property\obj\Debug\net8.0\01_demo_property.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\01_demo_property\obj\Debug\net8.0\ref\01_demo_property.dll

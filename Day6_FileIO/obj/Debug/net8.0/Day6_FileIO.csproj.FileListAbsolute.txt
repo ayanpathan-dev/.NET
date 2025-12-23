@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_FileIO\bin\Debug\net8.0\Day6_FileIO.exe
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_FileIO\bin\Debug\net8.0\Day6_FileIO.deps.json
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_FileIO\bin\Debug\net8.0\Day6_FileIO.runtimeconfig.json
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_FileIO\bin\Debug\net8.0\Day6_FileIO.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_FileIO\bin\Debug\net8.0\Day6_FileIO.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_FileIO\obj\Debug\net8.0\Day6_FileIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_FileIO\obj\Debug\net8.0\Day6_FileIO.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_FileIO\obj\Debug\net8.0\Day6_FileIO.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_FileIO\obj\Debug\net8.0\Day6_FileIO.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_FileIO\obj\Debug\net8.0\Day6_FileIO.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_FileIO\obj\Debug\net8.0\refint\Day6_FileIO.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_FileIO\obj\Debug\net8.0\Day6_FileIO.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_FileIO\obj\Debug\net8.0\Day6_FileIO.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_FileIO\obj\Debug\net8.0\ref\Day6_FileIO.dll

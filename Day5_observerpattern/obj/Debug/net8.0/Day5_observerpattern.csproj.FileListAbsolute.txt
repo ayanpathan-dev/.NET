@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day5_observerpattern\obj\Debug\net8.0\Day5_observerpattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day5_observerpattern\obj\Debug\net8.0\Day5_observerpattern.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day5_observerpattern\obj\Debug\net8.0\Day5_observerpattern.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day5_observerpattern\obj\Debug\net8.0\Day5_observerpattern.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day5_observerpattern\bin\Debug\net8.0\Day5_observerpattern.exe
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day5_observerpattern\bin\Debug\net8.0\Day5_observerpattern.deps.json
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day5_observerpattern\bin\Debug\net8.0\Day5_observerpattern.runtimeconfig.json
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day5_observerpattern\bin\Debug\net8.0\Day5_observerpattern.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day5_observerpattern\bin\Debug\net8.0\Day5_observerpattern.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day5_observerpattern\obj\Debug\net8.0\Day5_observerpattern.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day5_observerpattern\obj\Debug\net8.0\refint\Day5_observerpattern.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day5_observerpattern\obj\Debug\net8.0\Day5_observerpattern.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day5_observerpattern\obj\Debug\net8.0\Day5_observerpattern.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day5_observerpattern\obj\Debug\net8.0\ref\Day5_observerpattern.dll

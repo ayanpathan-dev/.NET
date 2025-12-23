@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_SerializationJson\bin\Debug\net8.0\Day6_SerializationJson.exe
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_SerializationJson\bin\Debug\net8.0\Day6_SerializationJson.deps.json
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_SerializationJson\bin\Debug\net8.0\Day6_SerializationJson.runtimeconfig.json
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_SerializationJson\bin\Debug\net8.0\Day6_SerializationJson.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_SerializationJson\bin\Debug\net8.0\Day6_SerializationJson.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_SerializationJson\obj\Debug\net8.0\Day6_SerializationJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_SerializationJson\obj\Debug\net8.0\Day6_SerializationJson.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_SerializationJson\obj\Debug\net8.0\Day6_SerializationJson.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_SerializationJson\obj\Debug\net8.0\Day6_SerializationJson.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_SerializationJson\obj\Debug\net8.0\Day6_SerializationJson.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_SerializationJson\obj\Debug\net8.0\refint\Day6_SerializationJson.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_SerializationJson\obj\Debug\net8.0\Day6_SerializationJson.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_SerializationJson\obj\Debug\net8.0\Day6_SerializationJson.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_SerializationJson\obj\Debug\net8.0\ref\Day6_SerializationJson.dll

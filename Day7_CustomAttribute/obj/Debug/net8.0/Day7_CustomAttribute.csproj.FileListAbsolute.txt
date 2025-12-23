@@ -1,0 +1,11 @@
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day7_CustomAttribute\bin\Debug\net8.0\Day7_CustomAttribute.deps.json
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day7_CustomAttribute\bin\Debug\net8.0\Day7_CustomAttribute.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day7_CustomAttribute\bin\Debug\net8.0\Day7_CustomAttribute.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day7_CustomAttribute\obj\Debug\net8.0\Day7_CustomAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day7_CustomAttribute\obj\Debug\net8.0\Day7_CustomAttribute.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day7_CustomAttribute\obj\Debug\net8.0\Day7_CustomAttribute.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day7_CustomAttribute\obj\Debug\net8.0\Day7_CustomAttribute.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day7_CustomAttribute\obj\Debug\net8.0\Day7_CustomAttribute.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day7_CustomAttribute\obj\Debug\net8.0\refint\Day7_CustomAttribute.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day7_CustomAttribute\obj\Debug\net8.0\Day7_CustomAttribute.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day7_CustomAttribute\obj\Debug\net8.0\ref\Day7_CustomAttribute.dll

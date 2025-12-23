@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Day7_EmpLib/1.0.0": {
+        "dependencies": {
+          "Day7_CognizantAtt": "1.0.0",
+          "Day7_CustomAttribute": "1.0.0"
+        },
+        "runtime": {
+          "Day7_EmpLib.dll": {}
+        }
+      },
+      "Day7_CognizantAtt/1.0.0": {
+        "runtime": {
+          "Day7_CognizantAtt.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Day7_CustomAttribute/1.0.0": {
+        "runtime": {
+          "Day7_CustomAttribute.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day7_EmpLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Day7_CognizantAtt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Day7_CustomAttribute/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

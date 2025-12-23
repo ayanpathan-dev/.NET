@@ -1,0 +1,11 @@
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day7_CognizantAtt\bin\Debug\net8.0\Day7_CognizantAtt.deps.json
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day7_CognizantAtt\bin\Debug\net8.0\Day7_CognizantAtt.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day7_CognizantAtt\bin\Debug\net8.0\Day7_CognizantAtt.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day7_CognizantAtt\obj\Debug\net8.0\Day7_CognizantAtt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day7_CognizantAtt\obj\Debug\net8.0\Day7_CognizantAtt.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day7_CognizantAtt\obj\Debug\net8.0\Day7_CognizantAtt.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day7_CognizantAtt\obj\Debug\net8.0\Day7_CognizantAtt.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day7_CognizantAtt\obj\Debug\net8.0\Day7_CognizantAtt.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day7_CognizantAtt\obj\Debug\net8.0\refint\Day7_CognizantAtt.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day7_CognizantAtt\obj\Debug\net8.0\Day7_CognizantAtt.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day7_CognizantAtt\obj\Debug\net8.0\ref\Day7_CognizantAtt.dll

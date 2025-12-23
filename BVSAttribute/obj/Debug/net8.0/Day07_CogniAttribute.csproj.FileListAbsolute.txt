@@ -1,0 +1,4 @@
+C:\Users\IET\Desktop\.Net_250845920048\Solution\BVSAttribute\obj\Debug\net8.0\Day07_CogniAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net_250845920048\Solution\BVSAttribute\obj\Debug\net8.0\Day07_CogniAttribute.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\BVSAttribute\obj\Debug\net8.0\Day07_CogniAttribute.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net_250845920048\Solution\BVSAttribute\obj\Debug\net8.0\Day07_CogniAttribute.csproj.CoreCompileInputs.cache

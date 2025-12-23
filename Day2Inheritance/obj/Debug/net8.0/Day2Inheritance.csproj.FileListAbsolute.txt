@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day2Inheritance\bin\Debug\net8.0\Day2Inheritance.exe
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day2Inheritance\bin\Debug\net8.0\Day2Inheritance.deps.json
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day2Inheritance\bin\Debug\net8.0\Day2Inheritance.runtimeconfig.json
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day2Inheritance\bin\Debug\net8.0\Day2Inheritance.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day2Inheritance\bin\Debug\net8.0\Day2Inheritance.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day2Inheritance\obj\Debug\net8.0\Day2Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day2Inheritance\obj\Debug\net8.0\Day2Inheritance.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day2Inheritance\obj\Debug\net8.0\Day2Inheritance.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day2Inheritance\obj\Debug\net8.0\Day2Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day2Inheritance\obj\Debug\net8.0\Day2Inheritance.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day2Inheritance\obj\Debug\net8.0\refint\Day2Inheritance.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day2Inheritance\obj\Debug\net8.0\Day2Inheritance.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day2Inheritance\obj\Debug\net8.0\Day2Inheritance.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day2Inheritance\obj\Debug\net8.0\ref\Day2Inheritance.dll

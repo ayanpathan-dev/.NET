@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day3_DocReport\bin\Debug\net8.0\Day3_DocReport.exe
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day3_DocReport\bin\Debug\net8.0\Day3_DocReport.deps.json
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day3_DocReport\bin\Debug\net8.0\Day3_DocReport.runtimeconfig.json
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day3_DocReport\bin\Debug\net8.0\Day3_DocReport.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day3_DocReport\bin\Debug\net8.0\Day3_DocReport.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day3_DocReport\obj\Debug\net8.0\Day3_DocReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day3_DocReport\obj\Debug\net8.0\Day3_DocReport.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day3_DocReport\obj\Debug\net8.0\Day3_DocReport.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day3_DocReport\obj\Debug\net8.0\Day3_DocReport.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day3_DocReport\obj\Debug\net8.0\Day3_DocReport.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day3_DocReport\obj\Debug\net8.0\refint\Day3_DocReport.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day3_DocReport\obj\Debug\net8.0\Day3_DocReport.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day3_DocReport\obj\Debug\net8.0\Day3_DocReport.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day3_DocReport\obj\Debug\net8.0\ref\Day3_DocReport.dll

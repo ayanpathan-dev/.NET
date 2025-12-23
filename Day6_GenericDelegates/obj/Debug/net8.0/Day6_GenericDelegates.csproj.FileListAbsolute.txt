@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_GenericDelegates\bin\Debug\net8.0\Day6_GenericDelegates.exe
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_GenericDelegates\bin\Debug\net8.0\Day6_GenericDelegates.deps.json
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_GenericDelegates\bin\Debug\net8.0\Day6_GenericDelegates.runtimeconfig.json
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_GenericDelegates\bin\Debug\net8.0\Day6_GenericDelegates.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_GenericDelegates\bin\Debug\net8.0\Day6_GenericDelegates.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_GenericDelegates\obj\Debug\net8.0\Day6_GenericDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_GenericDelegates\obj\Debug\net8.0\Day6_GenericDelegates.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_GenericDelegates\obj\Debug\net8.0\Day6_GenericDelegates.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_GenericDelegates\obj\Debug\net8.0\Day6_GenericDelegates.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_GenericDelegates\obj\Debug\net8.0\Day6_GenericDelegates.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_GenericDelegates\obj\Debug\net8.0\refint\Day6_GenericDelegates.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_GenericDelegates\obj\Debug\net8.0\Day6_GenericDelegates.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_GenericDelegates\obj\Debug\net8.0\Day6_GenericDelegates.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day6_GenericDelegates\obj\Debug\net8.0\ref\Day6_GenericDelegates.dll

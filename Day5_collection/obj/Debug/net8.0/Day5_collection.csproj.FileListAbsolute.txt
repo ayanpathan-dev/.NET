@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day5_collection\bin\Debug\net8.0\Day5_collection.exe
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day5_collection\bin\Debug\net8.0\Day5_collection.deps.json
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day5_collection\bin\Debug\net8.0\Day5_collection.runtimeconfig.json
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day5_collection\bin\Debug\net8.0\Day5_collection.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day5_collection\bin\Debug\net8.0\Day5_collection.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day5_collection\obj\Debug\net8.0\Day5_collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day5_collection\obj\Debug\net8.0\Day5_collection.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day5_collection\obj\Debug\net8.0\Day5_collection.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day5_collection\obj\Debug\net8.0\Day5_collection.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day5_collection\obj\Debug\net8.0\Day5_collection.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day5_collection\obj\Debug\net8.0\refint\Day5_collection.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day5_collection\obj\Debug\net8.0\Day5_collection.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day5_collection\obj\Debug\net8.0\Day5_collection.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day5_collection\obj\Debug\net8.0\ref\Day5_collection.dll

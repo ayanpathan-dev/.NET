@@ -1,0 +1,6 @@
+C:\Users\IET\Desktop\.Net_250845920048\Solution\CMath_day04\bin\Debug\CMath_day04.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\CMath_day04\bin\Debug\CMath_day04.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\CMath_day04\obj\Debug\CMath_day04.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\CMath_day04\obj\Debug\CMath_day04.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\CMath_day04\obj\Debug\CMath_day04.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\CMath_day04\obj\Debug\CMath_day04.pdb
