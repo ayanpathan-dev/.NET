@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day08_LINQ\bin\Debug\net8.0\Day08_C#_Features.exe
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day08_LINQ\bin\Debug\net8.0\Day08_C#_Features.deps.json
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day08_LINQ\bin\Debug\net8.0\Day08_C#_Features.runtimeconfig.json
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day08_LINQ\bin\Debug\net8.0\Day08_C#_Features.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day08_LINQ\bin\Debug\net8.0\Day08_C#_Features.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day08_LINQ\obj\Debug\net8.0\Day08_C#_Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day08_LINQ\obj\Debug\net8.0\Day08_C#_Features.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day08_LINQ\obj\Debug\net8.0\Day08_C#_Features.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day08_LINQ\obj\Debug\net8.0\Day08_C#_Features.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day08_LINQ\obj\Debug\net8.0\Day08_C#_Features.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day08_LINQ\obj\Debug\net8.0\refint\Day08_C#_Features.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day08_LINQ\obj\Debug\net8.0\Day08_C#_Features.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day08_LINQ\obj\Debug\net8.0\Day08_C#_Features.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day08_LINQ\obj\Debug\net8.0\ref\Day08_C#_Features.dll

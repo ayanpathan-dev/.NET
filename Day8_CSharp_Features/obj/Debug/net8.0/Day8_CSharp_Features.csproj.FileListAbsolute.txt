@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day8_CSharp_Features\bin\Debug\net8.0\Day8_CSharp_Features.exe
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day8_CSharp_Features\bin\Debug\net8.0\Day8_CSharp_Features.deps.json
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day8_CSharp_Features\bin\Debug\net8.0\Day8_CSharp_Features.runtimeconfig.json
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day8_CSharp_Features\bin\Debug\net8.0\Day8_CSharp_Features.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day8_CSharp_Features\bin\Debug\net8.0\Day8_CSharp_Features.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day8_CSharp_Features\obj\Debug\net8.0\Day8_CSharp_Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day8_CSharp_Features\obj\Debug\net8.0\Day8_CSharp_Features.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day8_CSharp_Features\obj\Debug\net8.0\Day8_CSharp_Features.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day8_CSharp_Features\obj\Debug\net8.0\Day8_CSharp_Features.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day8_CSharp_Features\obj\Debug\net8.0\Day8_CSharp_Features.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day8_CSharp_Features\obj\Debug\net8.0\refint\Day8_CSharp_Features.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day8_CSharp_Features\obj\Debug\net8.0\Day8_CSharp_Features.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day8_CSharp_Features\obj\Debug\net8.0\Day8_CSharp_Features.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day8_CSharp_Features\obj\Debug\net8.0\ref\Day8_CSharp_Features.dll

@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day9_LINQ2\bin\Debug\net8.0\Day9_LINQ2.exe
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day9_LINQ2\bin\Debug\net8.0\Day9_LINQ2.deps.json
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day9_LINQ2\bin\Debug\net8.0\Day9_LINQ2.runtimeconfig.json
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day9_LINQ2\bin\Debug\net8.0\Day9_LINQ2.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day9_LINQ2\bin\Debug\net8.0\Day9_LINQ2.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day9_LINQ2\obj\Debug\net8.0\Day9_LINQ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day9_LINQ2\obj\Debug\net8.0\Day9_LINQ2.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day9_LINQ2\obj\Debug\net8.0\Day9_LINQ2.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day9_LINQ2\obj\Debug\net8.0\Day9_LINQ2.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day9_LINQ2\obj\Debug\net8.0\Day9_LINQ2.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day9_LINQ2\obj\Debug\net8.0\refint\Day9_LINQ2.dll
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day9_LINQ2\obj\Debug\net8.0\Day9_LINQ2.pdb
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day9_LINQ2\obj\Debug\net8.0\Day9_LINQ2.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net_250845920048\Solution\Day9_LINQ2\obj\Debug\net8.0\ref\Day9_LINQ2.dll
